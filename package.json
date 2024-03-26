@@ -1,0 +1,28 @@
+{
+  "name": "json-to-formdata",
+  "version": "1.0.0",
+  "description": "convert json data to formdata",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starsystems-sangli/json-to-formdata.git"
+  },
+  "keywords": [
+    "json",
+    "formdata",
+    "form",
+    "javascript"
+  ],
+  "author": "karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starsystems-sangli/json-to-formdata/issues"
+  },
+  "homepage": "https://github.com/Starsystems-sangli/json-to-formdata#readme",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
